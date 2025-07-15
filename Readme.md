@@ -25,7 +25,9 @@
 
 ## ⚡ **The Impossible Demo**
 
-```bash
+---
+
+
 # What takes weeks traditionally, MCP-T does in 60 seconds:
 
 $ mcpt generate "SSL-compliant Salesforce server with AI lead scoring"
@@ -44,7 +46,7 @@ $ mcpt generate "SSL-compliant Salesforce server with AI lead scoring"
 
 🧠 AI Intelligence: Server automatically registered as @mcp.tool()
    → Any AI agent can now score Salesforce leads
-   → Perfect for Replit, bolt.new, Cursor integration
+   → Perfect for Replit, bolt.new, 10Web, Databutton, Cursor integration
 
 Total time: 47 seconds
 🎥 Watch the Live Demo
